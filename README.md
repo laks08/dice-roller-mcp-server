@@ -249,6 +249,15 @@ echo '{"jsonrpc":"2.0","method":"tools/list","id":1}' | docker run --rm -i dice-
 - Check for typos in dice notation
 - Ensure numbers are within limits
 
+## � LAcknowledgments
+
+This project was inspired by and built following the excellent tutorial by **NetworkChuck**. His video provided the foundation and guidance for creating MCP servers with Docker integration.
+
+- **NetworkChuck YouTube Channel**: [https://www.youtube.com/@NetworkChuck](https://www.youtube.com/@NetworkChuck)
+- **Tutorial Reference**: MCP Server Development with Docker
+
+Special thanks to NetworkChuck for making complex concepts accessible and inspiring developers to build cool projects!
+
 ## 📄 License
 
 MIT License - Feel free to modify and distribute!
@@ -263,3 +272,5 @@ MIT License - Feel free to modify and distribute!
 ---
 
 _Happy rolling! 🎲_
+
+_Built with guidance from NetworkChuck's tutorials_
